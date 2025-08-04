@@ -1,0 +1,5 @@
+```
+quart==0.19.4
+aiosqlite==0.20.0
+ib_insync==0.9.70
+```
